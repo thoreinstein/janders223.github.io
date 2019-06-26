@@ -41,3 +41,5 @@ timezone: America/New_York
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-merlot
