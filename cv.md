@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: CV
+permalink: /cv/
 ---
 # Jim Anders
 Husband, Father, Software Engineer, CFL1, Coffee Addict, Furniture Maker.

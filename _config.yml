@@ -16,7 +16,7 @@
 title: Jim Anders
 email: jim@janders223.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Husband. Father. Software Engineer. CFL1. Coffee Enthusiast. Amatuer Furniture Maker.
+  Husband. Father. Software Engineer. CFL1. Coffee Enthusiast. Furniture Maker.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janders223.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  janders223
